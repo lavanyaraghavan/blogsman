@@ -1,0 +1,7 @@
+--Migration Commands
+
+Add-Migration "Adding Relationships" -Context "RelationshipContext"
+
+Update Database
+
+Update Database -Context "RelationshipContext"
