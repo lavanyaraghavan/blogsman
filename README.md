@@ -5,14 +5,14 @@ A full-stack blog site application featuring:
 - Categorization system for organizing blogs
 - User-friendly interface for easy navigation
 
-##Technologies/Frameworks Used:
+## Technologies/Frameworks Used:
 
 - C#
 - DOT NET
 - Angular
 - SQL Server
 
-##Features:
+## Features:
 
 - Browse and read multiple blog posts
 - Filter blogs by category
